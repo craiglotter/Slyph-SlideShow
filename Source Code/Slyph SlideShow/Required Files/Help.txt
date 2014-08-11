@@ -1,0 +1,32 @@
+Slyph SlideShow is controlled via the context menu located in the main application window. Simply right click to bring up the list of available options.
+
+Load Image List: Allows you to select the folder from which the images are to be displayed. Note you can set the recursive option on the options dialog that appears.
+
+Refresh Image List: Reloads your selected image folder
+
+Start Slideshow:  Starts the slideshow
+
+Stop Slideshow: Stops the slideshow
+
+Restart Slideshow: Resets the slideshow to the first image
+
+Next Image: advances the list by one
+
+Previous Image: moves back on the list by one
+
+Quicker: Speeds up the slideshow by a second
+
+Slower: Slows down the slideshow by a second
+
+Set Speed: Allows you to set the slideshow interval (in seconds)
+
+Print Out Image List: Generates a text file listing of all the image files in the current image folder.
+
+Note: You'll see the keyboard shortcuts for each of these functions in brackets next to the function name.
+
+Note: The current slideshow status is shown at the top of the context menu. The path of the current image being displayed is displayed at the bottom of the main application window.
+
+The about and help menu items brings up the about and help dialog screens respectively. The AutoUpdate option checks for any updates for this application.
+
+
+-- Last Updated: 10/01/2008 --
